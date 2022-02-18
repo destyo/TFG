@@ -13,7 +13,7 @@ En este trabajo trato de cuantificar cuanto aumenta la probabilidad de estar emp
 Como se puede ver en el gráfico más arriba, es mayor el porcentaje de empleados entre aquellos que asistieron a la universidad privada.
 Un hecho que se constata año tras año en las estadísticas de empleo. Por ello, mi propósito era tratar de esclarecer si asistir a una universidad 
 privada realmente tiene un efecto genuino sobre la probabilidad estar empleado o se trata meramente de sesgo de selección. 
-Desafortunadamente, los datos disponibles no permiten responder del todo a esta pregunta, pero los resultados parecen indicar que si existe causalidad.
+Desafortunadamente, los datos disponibles no permiten responder del todo a esta pregunta, pero los resultados parecen indicar que si existe una relación causal.
 
 ## Datos
 _Encuesta de inserción laboral de titulados universitarios. EILU. Año 2019_  
@@ -24,5 +24,5 @@ Los datos se encuentran disponibles en el [INE](https://www.ine.es/dyngs/INEbase
 
 ## Inspiración
 
-Cap.2 Regression from _Mastering 'Metrics: The Path from Cause to Effect_  
+Ch.2 Regression from _Mastering 'Metrics: The Path from Cause to Effect_  
 [Vídeo](https://www.youtube.com/watch?v=6YrIDhaUQOE&ab_channel=MarginalRevolutionUniversity)
